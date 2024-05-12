@@ -1,3 +1,4 @@
+![logo](https://github.com/AbhijitNimbulkar/AbhijitNimbulkar/blob/main/Abhijit%20Cover%20pic.png)
 <h1 align="center">Hi 👋, I'm Abhijit Nimbulkar</h1>
 <h3 align="center">A passionate Developer & Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/hacker-thumbs-up-8och19kzuukqqnwn.webp">
